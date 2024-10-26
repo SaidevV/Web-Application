@@ -1,0 +1,1 @@
+This document contains in total 7 experiments. These experiments are based on web application attacks that's happening or happened previously and also preventive measures to be taken to mitigate the attacks.
